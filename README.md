@@ -18,6 +18,9 @@
 - 📊 **Additional Data**  
   AQI, humidity, air pressure, and wind speed integration for richer environmental context.
 
+- 🌡️ **Temperature unit conversion**
+  Unit of the temperature can be converted from C to F and vice versa.
+
 ---
 
 ## ⚙️ Installation Instructions
